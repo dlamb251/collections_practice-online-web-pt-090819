@@ -1,3 +1,2 @@
-def # sort_array_asc (25,7,1) do
-
+def sort_array_asc (25,7,1) do
 end
